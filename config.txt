@@ -1,0 +1,3 @@
+[DEFAULT]
+midiName = 3Play 1
+serialPort = COM3
